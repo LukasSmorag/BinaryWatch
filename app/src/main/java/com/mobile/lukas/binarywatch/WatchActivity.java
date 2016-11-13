@@ -12,8 +12,6 @@ public class WatchActivity extends AppCompatActivity {
     private int hours;
     private int seconds;
 
-    private boolean running;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         //hide the action bar
